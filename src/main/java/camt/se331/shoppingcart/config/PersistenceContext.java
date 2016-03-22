@@ -37,6 +37,8 @@ import java.util.Properties;
 @EnableJpaRepositories("camt.se331.shoppingcart.repository")
 @PropertySources(value = {@PropertySource("classpath:/hibernate.properties")})
 class PersistenceContext {
+
+
     private static final String[] ENTITY_PACKAGES = {
             "camt.se331.shoppingcart.entity"
     };
@@ -50,6 +52,8 @@ class PersistenceContext {
     private static final String PROPERTY_NAME_DB_URL = "db.url";
     private static final String PROPERTY_NAME_DB_USER = "db.username";
 
+    @Autowired
+    private Environment env;
 
 
 }
