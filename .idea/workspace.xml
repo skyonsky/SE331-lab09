@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="819eab36-94e8-4c5c-a712-efa2eb60ed0f" name="Default" comment="" />
+    <ignored path="lab09.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/target/" />
+=======
     <list default="true" id="6befd3ea-a64c-41fa-9d39-4fbc1d505931" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/camt/se331/shoppingcart/config/PersistenceContext.java" afterPath="$PROJECT_DIR$/src/main/java/camt/se331/shoppingcart/config/PersistenceContext.java" />
@@ -9,6 +15,7 @@
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path=".idea/dataSources.local.xml" />
+>>>>>>> a23174eeda21f1c93990af03885aabd11035e0c7
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +31,8 @@
   <component name="FavoritesManager">
     <favorites_list name="lab09" />
   </component>
+<<<<<<< HEAD
+=======
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="PersistenceContext.java" pinned="false" current-in-tab="false">
@@ -48,6 +57,7 @@
       </file>
     </leaf>
   </component>
+>>>>>>> a23174eeda21f1c93990af03885aabd11035e0c7
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -56,6 +66,8 @@
       <projects_view />
     </option>
   </component>
+<<<<<<< HEAD
+=======
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -63,6 +75,7 @@
       </list>
     </option>
   </component>
+>>>>>>> a23174eeda21f1c93990af03885aabd11035e0c7
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsBuildToolPackageJson" detection-done="true" />
   <component name="JsGulpfileManager">
@@ -76,8 +89,20 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="width" value="960" />
     <option name="height" value="1040" />
+=======
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+<<<<<<< HEAD
+    <option name="width" value="1370" />
+    <option name="height" value="744" />
+=======
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+>>>>>>> a23174eeda21f1c93990af03885aabd11035e0c7
+>>>>>>> 40de938d3682f49695d7f94ba39391c8bf3b628e
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -104,7 +129,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+      <pane id="Scratches" />
+=======
       <pane id="Scope" />
+>>>>>>> a23174eeda21f1c93990af03885aabd11035e0c7
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -120,6 +149,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+<<<<<<< HEAD
+              <option name="myItemId" value="SE331-lab09" />
+=======
               <option name="myItemId" value="lab09" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -325,6 +357,7 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="config" />
+>>>>>>> a23174eeda21f1c93990af03885aabd11035e0c7
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -360,7 +393,11 @@
           </PATH>
         </subPane>
       </pane>
+<<<<<<< HEAD
+      <pane id="Scope" />
+=======
       <pane id="Scratches" />
+>>>>>>> a23174eeda21f1c93990af03885aabd11035e0c7
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -791,20 +828,44 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
+      <changelist id="819eab36-94e8-4c5c-a712-efa2eb60ed0f" name="Default" comment="" />
+      <created>1458616991129</created>
+      <option name="number" value="Default" />
+      <updated>1458616991129</updated>
+      <workItem from="1458616996787" duration="269000" />
+=======
       <changelist id="6befd3ea-a64c-41fa-9d39-4fbc1d505931" name="Default" comment="" />
       <created>1458616808401</created>
       <option name="number" value="Default" />
       <updated>1458616808401</updated>
+<<<<<<< HEAD
       <workItem from="1458616813002" duration="2264000" />
+=======
+      <workItem from="1458616813002" duration="399000" />
+>>>>>>> a23174eeda21f1c93990af03885aabd11035e0c7
+>>>>>>> 40de938d3682f49695d7f94ba39391c8bf3b628e
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="2264000" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="269000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
+    <editor active="false" />
+=======
+    <option name="totallyTimeSpent" value="399000" />
+>>>>>>> 40de938d3682f49695d7f94ba39391c8bf3b628e
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="960" height="1040" extended-state="1" />
     <editor active="true" />
+>>>>>>> a23174eeda21f1c93990af03885aabd11035e0c7
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -815,7 +876,15 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3792373" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+<<<<<<< HEAD
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24961832" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12291667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> a23174eeda21f1c93990af03885aabd11035e0c7
+>>>>>>> 40de938d3682f49695d7f94ba39391c8bf3b628e
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -839,6 +908,8 @@
     <breakpoint-manager />
     <watches-manager />
   </component>
+<<<<<<< HEAD
+=======
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/camt/se331/shoppingcart/config/PersistenceContext.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -857,4 +928,5 @@
       </provider>
     </entry>
   </component>
+>>>>>>> a23174eeda21f1c93990af03885aabd11035e0c7
 </project>
