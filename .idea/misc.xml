@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ClientPropertiesManager">
     <properties class="javax.swing.AbstractButton">
       <property name="hideActionText" class="java.lang.Boolean" />
@@ -37,6 +38,10 @@
       <property name="caretAspectRatio" class="java.lang.Double" />
       <property name="caretWidth" class="java.lang.Integer" />
     </properties>
+=======
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+>>>>>>> a23174eeda21f1c93990af03885aabd11035e0c7
   </component>
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$" />

@@ -19,6 +19,7 @@ import java.util.Locale;
 @ComponentScan(basePackages = {"camt.se331.shoppingcart"})
 @EnableAspectJAutoProxy
 
+
 public class AppConfig extends WebMvcConfigurerAdapter {
     @Override
     public void addResourceHandlers(ResourceHandlerRegistry registry) {
